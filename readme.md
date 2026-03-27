@@ -1,4 +1,4 @@
-#Setting Up Neon DB with Prisma in Express.js (2026 Guide)
+# Setting Up Neon DB with Prisma in Express.js (2026 Guide)
 
 Integrating a serverless database like Neon with Prisma in a TypeScript environment is a streamlined
 process in 2026. This guide covers the essential steps from cloud setup to code implementation.
